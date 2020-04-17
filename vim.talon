@@ -19,3 +19,8 @@ title: /vi\ |vim/
 (quit):
   key(: q)
   key(enter)
+
+(do time):
+  key(:)
+  insert("DoTime")
+  key(enter)
